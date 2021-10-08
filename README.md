@@ -15,7 +15,7 @@ Thanks to* **[@gdscwce](https://github.com/gdscwce)** *and* **[@GDSC BSIOTR](htt
 
 # My Progress
 
-# `Track 1 Track 1: Cloud Engineering Track`
+# `Track 1 Track 1: Cloud Engineering`
 
 * [x]  Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
     - [x]  A Tour of Qwiklabs and Google Cloud
@@ -61,7 +61,7 @@ Thanks to* **[@gdscwce](https://github.com/gdscwce)** *and* **[@GDSC BSIOTR](htt
 
 ---
 
-# `Track 2: Data Science and Machine Learning Track`
+# `Track 2: Data Science and Machine Learning`
 - [ ]  Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
     - [ ]  A Tour of Qwiklabs and Google Cloud
     - [ ]  Creating a Virtual Machine
