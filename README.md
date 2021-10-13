@@ -27,8 +27,8 @@ Thanks to* **[@gdscwce](https://github.com/gdscwce)** *and* **[@GDSC BSIOTR](htt
 * [ ]  Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
     - [x]  Cloud Storage Qwik Start - Cloud Console
     - [x]  Cloud IAM: Qwik Start
-    - [ ]  Cloud Monitoring: Qwik Start
-    - [ ]  Cloud Functions: Qwik Start - Console
+    - [x]  Cloud Monitoring: Qwik Start
+    - [x]  Cloud Functions: Qwik Start - Console
     - [ ]  Google Cloud Pub/Sub: Qwik Start - Console
     - [ ]  Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
 * [ ]  Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
