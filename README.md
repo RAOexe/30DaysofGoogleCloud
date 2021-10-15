@@ -34,8 +34,8 @@ Thanks to* **[@gdscwce](https://github.com/gdscwce)** *and* **[@GDSC BSIOTR](htt
 * [ ]  Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
     - [x]  Cloud IAM: Qwik Start
     - [x]  Introduction to SQL for BigQuery and Cloud SQL
-    - [ ]  Multiple VPC Networks
-    - [ ]  Cloud Monitoring: Qwik Start
+    - [x]  Multiple VPC Networks
+    - [x]  Cloud Monitoring: Qwik Start
     - [ ]  Managing Deployments Using Kubernetes Engine
     - [ ]  Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
 * [ ]  Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
